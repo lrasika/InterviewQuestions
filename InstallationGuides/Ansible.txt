@@ -3,6 +3,7 @@
  apt-get update
  apt-get install ansible
 
+ansible --version
 
 ssh-keygen -t rsa
 
